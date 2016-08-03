@@ -7,3 +7,7 @@ DJANGO
 3. Если TemplateDoesNotExist, необходимо добавить шаблон.
 
 4. NoReverseMatch добавить URL в urls.py
+
+5._psycopg.so, 2): Library not loaded: libssl.1.0.0.dylib
+
+http://stackoverflow.com/questions/27264574/import-psycopg2-library-not-loaded-libssl-1-0-0-dylib
