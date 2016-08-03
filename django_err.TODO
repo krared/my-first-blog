@@ -1,0 +1,9 @@
+DJANGO
+
+1. Если AttributeError, значит надо добавить представление(см.2)
+
+2. Представление находится в views.py def post_detail(request, pk)
+
+3. Если TemplateDoesNotExist, необходимо добавить шаблон.
+
+4. NoReverseMatch добавить URL в urls.py
